@@ -12,6 +12,14 @@
         "repo": "thenikacode/keep-or-rebuild"
       },
       "description": "Tells you whether to keep paying for an app, switch to open source, or rebuild only the part you use. Quotes licenses from the LICENSE files."
+    },
+    {
+      "name": "first-step",
+      "source": {
+        "source": "github",
+        "repo": "thenikacode/first-step"
+      },
+      "description": "Turn a rough idea into a clear first step: one useful question at a time, then a small next step you can check."
     }
   ]
 }
